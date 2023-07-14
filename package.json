@@ -1,0 +1,17 @@
+{
+  "name": "linker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^7.1.1",
+    "glob": "^10.3.3",
+    "npm-link-check": "^5.0.0",
+    "yargs": "^17.7.2"
+  }
+}
